@@ -1,0 +1,7 @@
+PS C:\Users\rohit gupta\Documents\web_dev\python_mini_project> Set-ExecutionPolicy RemoteSigned -Scope Process
+PS C:\Users\rohit gupta\Documents\web_dev\python_mini_project> .\venv\Scripts\activate
+>> '
+
+
+GitHub pro 
+https://github.com/kingparks/cursor-vip
